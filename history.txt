@@ -1,0 +1,217 @@
+    1  pkg update
+    2  git config
+    3  git config --faaiq.abrahams@bcx.co.za
+    4  git config --global user.email "Faaiq.abrahams@bcx.co.za
+    5  git config --global user.name "Faaiqa"
+    6  termux-setup-storage
+    7  cd storage/shared
+    8  run
+    9  pkg update
+   10  pkg update
+   11  PkgMgr.exe 
+   12  install git
+   13  pkg upgrade
+   14  update
+   15  update
+   16  ?
+   17  --help
+   18  help
+   19  push update
+   20  pushd
+   21  pushtoinstall.dll
+   22  push upgrade
+   23  pkg update
+   24  git config --global user.email "fiki2804@gmail.com"
+   25  git config --global user.name "faaiqa"
+   26  termex-setup-storage
+   27  termux-setup-storage
+   28  termux-setup
+   29  cd storage/shared
+   30  termux-setup-storage
+   31  setup
+   32  x=0
+   33  y=1
+   34  Print the value of x
+   35  x=0
+   36  y=1
+   37  print(x)
+   38  print(y)
+   39  x=x+3
+   40  y=y+x
+   41  print(x)
+   42  x=0
+   43  y=1
+   44  print(x)
+   45  print(y)
+   46  x=x+3
+   47  y=y+x
+   48  print(x)
+   49  print n in range(3,6)
+   50  for n in range(3,6)
+   51  x=0
+   52  y=1
+   53  print(x)
+   54  print(y)
+   55  x=x+3
+   56  y=y+x
+   57  print(x)
+   58  x=0
+   59   git config --global user.name "flake"
+   60  git config --global user.name "flake"
+   61  git config --global user.name
+   62  git config user.name
+   63  git config
+   64  brew install git
+   65  gh auth login
+   66  git config--global user.name,"flake"
+   67  git config--global user.name,"flake"
+   68  go run script\build.go
+   69  go version
+   70  winget install --id GitHub.cli
+   71  https://github.com/user/repo.git
+   72  ls
+   73  mkdir git-basic-excercises
+   74  ls
+   75  cd git-basic-excercises/
+   76  ls -a
+   77  git init
+   78  ls -a
+   79  git status
+   80  touch READ.md
+   81  ls -a
+   82  git status
+   83  git log
+   84  git add README.md
+   85  git add READ.md
+   86  ls -a
+   87  git status
+   88  git rm --cached <READ.md>
+   89  git rm --cached <file>
+   90  git rm --cached <READ>
+   91  git status
+   92  git push
+   93  git commit -m "*your commit message*"
+   94  git status
+   95  git reset <commit> -- <path>
+   96  git reset<READ> -- cd
+   97  git commit -m "initial commit"
+   98  git add READ
+   99  cd git-basic-excercises
+  100  quit
+  101  exit
+  102  cd git-basic-excercises/
+  103  ls -a
+  104  git add READ.md
+  105  git status
+  106  git commit -m "initial commit"
+  107  git log
+  108  q
+  109  remove READ.md
+  110  rm READ.md
+  111  ls
+  112  ls -a
+  113  add README.md
+  114  git add README.md
+  115  touch README.md
+  116  ls -a
+  117  git status
+  118  git log
+  119  git commit -m "initial commit"
+  120  git add <README.md>
+  121  git status
+  122  git add.
+  123  git add README.md
+  124  git status
+  125  git commit -m "initial commit"
+  126  git log
+  127  nano README.md
+  128  cat README.md
+  129  git status
+  130  git commit -m
+  131  git commit -m "innitial commit"
+  132  git rm READ.md
+  133  git status
+  134  git add README.md
+  135  git status
+  136  git commit -m "initial commit"
+  137  nano README.md
+  138  git status
+  139  git add README.md
+  140  git status
+  141  git commit -m "initial commit"
+  142  commit
+  143  git checkout
+  144  git log
+  145  cd git-basic-excercises/
+  146  touch README.md
+  147  ls -aa
+  148  git status
+  149  git log
+  150  git rm log
+  151  git reset log
+  152  git log
+  153  nano READ.me
+  154  nano README.md
+  155  git status
+  156  git add README.MD
+  157  git commit -m "initial commit"
+  158  git status
+  159  git add README.md
+  160  git commit -m "initial commit"
+  161  cat REAME.md
+  162  cat README.md
+  163  nano README.md
+  164  git add README.md
+  165  git status
+  166  git commit -m " second commit"
+  167  git log
+  168  nano README
+  169  nano README.md
+  170  git add README.md
+  171  git commit -m "third commit"
+  172  git log
+  173  git status
+  174  git log
+  175  git checkout 16c0059f7d34d19f649b1c7428b0d91f88e63ce8
+  176  cat README.md
+  177  git checkout main
+  178  git checkout README.md
+  179  git checkout main
+  180  cat README.md
+  181  git checkout
+  182  git checkout 010e076847c888d61f577aed38bcfedcf19ceeb6
+  183  cat README.md
+  184  git branch
+  185  cd main
+  186  cd MINGW32
+  187  cd ..
+  188  git branch
+  189  cd git-basic-excercises/
+  190  git branch
+  191  git checkout -b <milkshake-flavours>
+  192  q
+  193  git checkout -b <milkshake-flavours>
+  194  git branch
+  195  q
+  196  exit
+  197  cd git-basic-excercises/
+  198  checkout main
+  199  git branch
+  200  git checkout -b milkshake-flavours
+  201  git branch
+  202  git checkout README.md
+  203  git branch -a
+  204  git checkout Trunk
+  205  git branch
+  206  git checkout milkshake-flavours 
+  207  nano milkshake-flavours
+  208  git status
+  209  git commit -m "added initial flavours"
+  210  git add milkshake-flavours 
+  211  git commit -m "milkshake-flavours" 
+  212  git log
+  213  git checkout Trunk 
+  214  git checkout -b history
+  215  git branch
+  216  git log
+  217  history>history.txt
